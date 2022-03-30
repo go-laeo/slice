@@ -1,5 +1,6 @@
 package slice
 
+// Unique removes duplicate values from src.
 func Unique[T comparable](src []T) []T {
 	dst := make([]T, 0)
 

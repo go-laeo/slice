@@ -1,5 +1,7 @@
 # slice
 
+![build.yaml](https://github.com/go-laeo/slice/actions/workflows/build.yaml/badge.svg) [![Go Reference](https://pkg.go.dev/badge/github.com/go-laeo/slice.svg)](https://pkg.go.dev/github.com/go-laeo/slice)
+
 Slice provides some funcs to you to manipulates slice variables. Go1.18+
 
 # Requirements
